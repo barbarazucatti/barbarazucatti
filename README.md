@@ -1,4 +1,9 @@
-## Hi there 👋 My name is Barbara!
+# Oi! I'm Barbara 👋  
+> ### I'm figuring out my way through tech after a career in science — and loving the ride.
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=barbarazucatti&theme=dracula&hide_border=true&border_radius=10" />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Barb-Java" height="30" width="60" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -7,11 +12,6 @@
   <img align="center" alt="Barb-k8s" height="30" width="100" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white">
   <img align="center" alt="Barb-MySQL" height="30" width="80" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Barb-Figma" height="30" width="80" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-_
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=barbarazucatti&show_icons=true&hide=stars&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarazucatti&layout=compact&theme=dracula"/>
 </div>
 
 ### Welcome to my profile 💕
@@ -37,13 +37,8 @@ _
 🎮 I’m hooked on games that mix collaboration and strategy, like _Valorant_ or a good D&D campaign.
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barbarazucatti&show_icons=true&hide=stars&theme=dracula) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarazucatti&layout=compact&theme=dracula)
 
-### 📫 How to reach me
-
-Feel free to contact me at:
-  
-✉️ barbarazucatti@gmail.com
-
-🔗 [LinkedIn](https://www.linkedin.com/in/barbarazucatti)
 
 ### Thanks for visiting! 🚀
