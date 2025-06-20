@@ -42,3 +42,6 @@
 
 
 ### Thanks for visiting! 🚀
+
+![Snake animation](https://github.com/barbarazucatti/barbarazucatti/blob/output/github-user-contribution.svg)
+
